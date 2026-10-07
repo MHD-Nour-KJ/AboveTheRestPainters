@@ -1,0 +1,23 @@
+# System and Agent files (Protected)
+.agents/
+AGENTS.md
+AGENTS.override.md
+Context/
+.local-testing/
+.worktrees/
+.codex/
+app/test-components/
+PROJECT_GUIDE.md
+
+# Python scrapers & temporary data
+*.py
+*.pyc
+__pycache__/
+scraped_content/
+downloaded_assets/
+scraped_site.json
+scraped_pages/
+
+# OS files
+.DS_Store
+Thumbs.db

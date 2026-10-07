@@ -1,0 +1,9 @@
+{
+  "name": "above-the-rest-painters",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for Above The Rest Painters - Tampa Bay, Florida",
+  "scripts": {
+    "build": "echo 'Static site ready for deployment'"
+  }
+}
